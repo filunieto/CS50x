@@ -14,7 +14,7 @@ Every exercise in this repository scored 100% on submission.
 
 # Table Of Contents
 
-- ⛳[Week-1](pset1/) ```[Theme: Basics of C, Greedy Algorithm, Cryptography]```
+- ⛳[Week-1](pset1/) ```[Theme: Basics of C, Greedy Algorithm, Cryptography]``` <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="20" height="20"/>
   - Lab
     - [Hello](pset1/hello)
     - [Population](pset1/population)
@@ -25,7 +25,7 @@ Every exercise in this repository scored 100% on submission.
     - [Cash](pset1/cash)
     - [Credit](pset1/credit)
  
- - ⛳[Week-2](pset2/) ```[Theme: Arrays, Cryptography, Encryption]```
+ - ⛳[Week-2](pset2/) ```[Theme: Arrays, Cryptography, Encryption]``` <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="20" height="20"/>
     - Lab
       - [Scrabble](pset2/scrabble)
     - Problem set
@@ -33,7 +33,7 @@ Every exercise in this repository scored 100% on submission.
       - [Caesar](pset2/caesar)
       - [Substitution](pset2/substitution)
 
- - ⛳[Week-3](pset3/) ```[Theme: Algorithms, Graph Theory Basics]```
+ - ⛳[Week-3](pset3/) ```[Theme: Algorithms, Graph Theory Basics]``` <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="20" height="20"/>
     - Lab
       - [Sort](pset3/sort)
     - Problem set
@@ -41,19 +41,19 @@ Every exercise in this repository scored 100% on submission.
       - [Runoff](pset3/runoff)
       - [Tideman](pset3/tideman)
 
- - ⛳[Week-4](pset4/) ```[Theme: Memory organization, Pointers⚠, Image filters, File manipulation & Data Recovery]```
+ - ⛳[Week-4](pset4/) ```[Theme: Memory organization, Pointers⚠, Image filters, File manipulation & Data Recovery]``` <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="20" height="20"/>
     - Lab
       - [Volume](pset4/volume)
     - Problem set
       - [Filter](pset4/filter)💥
  
- - ⛳[Week-5](pset5/) ```[Theme: Data Structures⚠]```
+ - ⛳[Week-5](pset5/) ```[Theme: Data Structures⚠]``` <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="20" height="20"/>
     - Lab
       - [Inheritance](pset5/inheritance)
     - Problem set
       - [Speller](pset5/speller)(Using Tries)💥 
 
-- ⛳[Week-6](pset6/) ```[Theme: Basics of Python, Forensics, Probability]```
+- ⛳[Week-6](pset6/) ```[Theme: Basics of Python, Forensics, Probability]```<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="20" height="20"/>
   - Lab
     - [Tournament](pset6/tournament)
   - Problem set
@@ -66,7 +66,7 @@ Every exercise in this repository scored 100% on submission.
     - [Readability](pset6/readability)
     - [DNA](pset6/dna)
 
-- ⛳[Week-7](pset7/) ```[Theme: SQLite, Database querying, Crime Investigation]```
+- ⛳[Week-7](pset7/) ```[Theme: SQLite, Database querying, Crime Investigation]``` <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="20" height="20"/> </a>
   - Lab
     - [Songs](pset7/songs)
   - Problem set
