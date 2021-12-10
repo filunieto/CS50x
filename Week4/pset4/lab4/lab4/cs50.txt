@@ -1,8 +1,0 @@
-Jim, salesman
-Jose, tendero
-Juan, cura
-Jim  Antonio2, enterrador
-Jose2, tendero
-Juan, cura
-Felipe, 458798
-Juanpà, 6547898
