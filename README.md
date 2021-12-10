@@ -55,7 +55,7 @@ Every exercise in this repository scored 100% on submission.
 
 - ⛳[Week-6](pset6/) ```[Theme: Basics of Python, Forensics, Probability]```
   - Lab
-    - [World Cup](pset6/tournament)
+    - [Tournament](pset6/tournament)
   - Problem set
     - [Hello](pset6/hello)
     - [Mario](pset6/mario)
