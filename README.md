@@ -1,5 +1,5 @@
 # CS50x
- All exercises performed in CS50x, with 100%. started on 31/8/2021
+ All exercises performed in CS50x, with 100%. started on 31/8/2021. Till week 7 on 9/12/21
  
 Enroll here: [CS50x](https://cs50.harvard.edu/x/)\
 Instructor: [David J. Malan](https://cs.harvard.edu/malan/)\
