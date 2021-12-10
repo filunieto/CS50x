@@ -13,8 +13,6 @@ Every exercise in this repository scored 100% on submission.
 
 
 # Table Of Contents
-- ⛳Week-0  ```[Theme: Basics of Programming]```
-  - [Scratch Project](https://scratch.mit.edu/projects/422144062/)
 
 - ⛳[Week-1](pset1/) ```[Theme: Basics of C, Greedy Algorithm, Cryptography]```
   - Lab
@@ -75,20 +73,7 @@ Every exercise in this repository scored 100% on submission.
     - [Movies](pset7/movies)
     - [Fiftyville](pset7/fiftyville)💥
     
-<! ––
-- ⛳[Week-8](pset8/) ```[Theme: Basics of HTML, CSS, Javascript, DOM]```
-  - Lab
-    - [Trivia](pset8/trivia)
-  - Problem set
-    - [Homepage](pset8/homepage)\
-      View the website [here](https://skyfall01.github.io/CS50x-2021/) !!!
 
-- ⛳[Week-9](pset9/) ```[Theme: Flask, Python revisited, Jinja, Equity Markets(Stocks)]```
-  - Lab
-    - [Birthdays](pset9/birthdays)
-  - Problem set
-    - [Finance](pset9/finance)💥
-––>
 
 ### DISCLAIMER:
 Please don't just copy the code mindlessly without trying to solve the problems yourself, it's totally pointless if you actually wanna learn how to write software and a blatant violation of the [**Academic Honesty**](https://docs.cs50.net/2016/fall/syllabus/cs50.html#academic-honesty) policy of the course.
